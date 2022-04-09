@@ -1,6 +1,6 @@
-# Hack4Bengal 
+## Profile Readme Generator 
+application for creating profile readme 
 
-### Profile Readme Generator 
 using python and streamlit 
 
 
